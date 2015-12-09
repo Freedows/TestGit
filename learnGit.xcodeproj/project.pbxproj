@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C19FDC91C187A7100DA1599 /* test.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C19FDC81C187A7100DA1599 /* test.m */; };
 		9CC5A03C1C18794F00724DAA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CC5A03B1C18794F00724DAA /* main.m */; };
 		9CC5A03F1C18794F00724DAA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CC5A03E1C18794F00724DAA /* AppDelegate.m */; };
 		9CC5A0421C18794F00724DAA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CC5A0411C18794F00724DAA /* ViewController.m */; };
@@ -27,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9C19FDC71C187A7100DA1599 /* test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
+		9C19FDC81C187A7100DA1599 /* test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = test.m; sourceTree = "<group>"; };
 		9CC5A0361C18794F00724DAA /* learnGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = learnGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CC5A03A1C18794F00724DAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9CC5A03B1C18794F00724DAA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -89,6 +92,8 @@
 				9CC5A0461C18794F00724DAA /* Images.xcassets */,
 				9CC5A0481C18794F00724DAA /* LaunchScreen.xib */,
 				9CC5A0391C18794F00724DAA /* Supporting Files */,
+				9C19FDC71C187A7100DA1599 /* test.h */,
+				9C19FDC81C187A7100DA1599 /* test.m */,
 			);
 			path = learnGit;
 			sourceTree = "<group>";
@@ -220,6 +225,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9CC5A0421C18794F00724DAA /* ViewController.m in Sources */,
+				9C19FDC91C187A7100DA1599 /* test.m in Sources */,
 				9CC5A03F1C18794F00724DAA /* AppDelegate.m in Sources */,
 				9CC5A03C1C18794F00724DAA /* main.m in Sources */,
 			);
@@ -416,6 +422,7 @@
 				9CC5A05B1C18794F00724DAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9CC5A05C1C18794F00724DAA /* Build configuration list for PBXNativeTarget "learnGitTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +431,7 @@
 				9CC5A05E1C18794F00724DAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
