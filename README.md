@@ -1,2 +1,0 @@
-# learnGit
-just learnGit
