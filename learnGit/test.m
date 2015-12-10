@@ -10,7 +10,6 @@
 
 #define hahha 11
 #define hahhaa 11
-#define hahhaaa 11
 
 @implementation test
 
