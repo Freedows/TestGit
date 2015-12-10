@@ -5,13 +5,13 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>3A06CB77-883F-449C-B9DA-AFE352BB1ABA</string>
+	<string>C78B1E4A-3216-4ECB-887E-3195145538EA</string>
 	<key>IDESourceControlProjectName</key>
 	<string>learnGit</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>9F50B7EEECE7965554014561A34A80EFECBCB2E6</key>
-		<string>https://github.com/aberlt/TestGit.git</string>
+		<string>github.com:Freedows/learnGit.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>learnGit.xcodeproj</string>
@@ -21,7 +21,7 @@
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/aberlt/TestGit.git</string>
+	<string>github.com:Freedows/learnGit.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>9F50B7EEECE7965554014561A34A80EFECBCB2E6</string>
 			<key>IDESourceControlWCCName</key>
-			<string>test</string>
+			<string>learnGit</string>
 		</dict>
 	</array>
 </dict>
