@@ -8,6 +8,22 @@
 
 #import "test.h"
 
+#define hahha 11
+#define hahhaa 11
+
 @implementation test
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @end
