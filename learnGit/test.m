@@ -9,6 +9,8 @@
 #import "test.h"
 
 
+#define tb 222
+
 @implementation test
 
 
