@@ -9,6 +9,8 @@
 #import "test.h"
 
 
+#define Freedow 111
+
 @implementation test
 
 
