@@ -14,10 +14,13 @@
 
 @implementation test
 
+#define Freedows 44
 
 
+#define Freedows 222
 
 
 
 
 @end
+#define Freedows 322
