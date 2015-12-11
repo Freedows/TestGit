@@ -9,9 +9,8 @@
 #import "test.h"
 
 
-#define tb 222
 #define Freedow 111
-#define Freedows 22
++#define Freedows 22
 
 
 @implementation test
