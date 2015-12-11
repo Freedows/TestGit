@@ -11,7 +11,6 @@
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>9F50B7EEECE7965554014561A34A80EFECBCB2E6</key>
-		<string>https://github.com/Freedow/TestGit.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>learnGit.xcodeproj</string>
@@ -21,7 +20,6 @@
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Freedow/TestGit.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -34,7 +32,6 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>9F50B7EEECE7965554014561A34A80EFECBCB2E6</string>
 			<key>IDESourceControlWCCName</key>
-			<string>test</string>
 		</dict>
 	</array>
 </dict>
