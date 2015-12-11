@@ -11,6 +11,7 @@
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>9F50B7EEECE7965554014561A34A80EFECBCB2E6</key>
+		<string>github.com:Freedows/learnGit.git</string>
 		<string>https://github.com/aberlt/TestGit.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
