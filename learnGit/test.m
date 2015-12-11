@@ -10,14 +10,16 @@
 
 
 #define Freedow 111
-#define Freedows 33
+#define Freedows 22
 
 @implementation test
 
 
-
-
+#define Freedows 33
+#define Freedows 44
 
 
 
 @end
+
+#define Freedows 55
